@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MapSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">OK</string>
+    <string name="permission_location_rationale">Location permissions are needed to demonstrate access.</string>
+    <string name="permission_phone_rationale">Phone permissions are needed to demonstrate access.</string>
+    <string name="title_activity_user_circle">UserCircle</string>
+    <string name="GPSAlertDialogTitle">Allow Location</string>
+    <string name="GPSAlertDialogMessage">The Application needs to access your location. Allow access?</string>
+    <string name="cancel">Location access denied!</string>
+    <string name="action_settings">Settings</string>
+    <string name="maps_key">AIzaSyD-VftKjd3BmEFrQ8X7KpRsf8DhHz1LPxs</string>
+    <string name="error">Something went wrong.</string>
+    <string name="failed">- call failed</string>
+    <string name="client_not_connected">Google API client is not connected.</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="space" >  </string>
+    <string name="check_internet">Please check your connection.</string>
+</resources>
